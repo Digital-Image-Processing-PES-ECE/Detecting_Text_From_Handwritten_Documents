@@ -1,5 +1,5 @@
-# Project Name
-Detecting Text From Handwritten Documents
+# Detecting Text From Handwritten Documents
+
 ### Project Description:
 #### Summary - 
 This MATLAB project processes an image to detect, align, and extract text from it using several image processing and computer vision techniques. It involves detecting edges, finding the orientation of dominant text lines, aligning the text, and performing Optical Character Recognition (OCR). The final output includes the aligned image and the extracted text.
